@@ -9,7 +9,7 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <Description>
-            This library enables Generator type ProviderState within IRequestBuilderV3.
+            Enable Generator type ProviderState capability to current net-pact lib which will allow feature: "Injecting values from provider state callbacks".
         </Description>
     </PropertyGroup>
 
