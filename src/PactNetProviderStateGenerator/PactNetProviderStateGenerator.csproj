@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    
+    <PropertyGroup>
+        <PackageId>PactNetProviderStateGenerator</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>Chad Tung</Authors>
+        <Company>Thoughtworks</Company>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Description>
+            This library enables Generator type ProviderState within IRequestBuilderV3.
+        </Description>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Moq" Version="4.17.2" />
+      <PackageReference Include="PactNet" Version="4.0.0-beta.3" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PactNetProviderStateGenerator", "src\PactNetProviderStateGenerator\PactNetProviderStateGenerator.csproj", "{B14BDD22-9086-4B0C-ABB9-4FD0428E2BB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PactNetProviderStateGenerator.Tests", "tests\PactNetProviderStateGenerator.Tests\PactNetProviderStateGenerator.Tests.csproj", "{0788E65C-7DFE-4732-B958-EE8535CEB53F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B14BDD22-9086-4B0C-ABB9-4FD0428E2BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B14BDD22-9086-4B0C-ABB9-4FD0428E2BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B14BDD22-9086-4B0C-ABB9-4FD0428E2BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B14BDD22-9086-4B0C-ABB9-4FD0428E2BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0788E65C-7DFE-4732-B958-EE8535CEB53F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0788E65C-7DFE-4732-B958-EE8535CEB53F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0788E65C-7DFE-4732-B958-EE8535CEB53F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0788E65C-7DFE-4732-B958-EE8535CEB53F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
